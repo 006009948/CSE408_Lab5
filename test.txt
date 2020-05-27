@@ -1,0 +1,7 @@
+How many ways can I provide my first name?
+My name is Justin
+Justin is my name
+I was born with the name Justin
+Everyone who knows me refers to me as Justin
+My birth certificate lists the string "Justin" under 'First Name'
+Justin my name is
